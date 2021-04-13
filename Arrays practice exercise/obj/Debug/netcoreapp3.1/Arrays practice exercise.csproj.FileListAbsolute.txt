@@ -1,0 +1,13 @@
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\bin\Debug\netcoreapp3.1\Arrays practice exercise.exe
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\bin\Debug\netcoreapp3.1\Arrays practice exercise.deps.json
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\bin\Debug\netcoreapp3.1\Arrays practice exercise.runtimeconfig.json
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\bin\Debug\netcoreapp3.1\Arrays practice exercise.runtimeconfig.dev.json
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\bin\Debug\netcoreapp3.1\Arrays practice exercise.dll
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\bin\Debug\netcoreapp3.1\Arrays practice exercise.pdb
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\obj\Debug\netcoreapp3.1\Arrays practice exercise.AssemblyInfoInputs.cache
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\obj\Debug\netcoreapp3.1\Arrays practice exercise.AssemblyInfo.cs
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\obj\Debug\netcoreapp3.1\Arrays practice exercise.csproj.CoreCompileInputs.cache
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\obj\Debug\netcoreapp3.1\Arrays practice exercise.dll
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\obj\Debug\netcoreapp3.1\Arrays practice exercise.pdb
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\obj\Debug\netcoreapp3.1\Arrays practice exercise.genruntimeconfig.cache
+C:\Users\spcav\source\repos\Arrays practice exercise\Arrays practice exercise\obj\Debug\netcoreapp3.1\Arrays practice exercise.csprojAssemblyReference.cache
